@@ -1,0 +1,28 @@
+ul {
+display: inline;
+list-style-type: none;
+margin: 3;
+padding: 0;
+background-color: #FAFAFA; 
+width:120px;
+padding:4px;
+overflow-x: hidden;
+overflow: hidden;
+background-position:center;
+}
+li {
+width:120px;
+display: block;
+background-color: crimson; 
+padding:4px;
+float:left;
+text-align:center;
+overflow: hidden;
+text-decoration: none;
+font-weight: bold;
+color: #FFFFFF;
+
+}
+li:hover {
+background-color: orange;
+}
