@@ -1,0 +1,9 @@
+1.00
+Site was brung upon Github, where I fiddled with the CSS and got a working navbar.
+-1.5
+Content added to the non-CSS site, which should be imported to the 1.00 site once I am able to grab the documents.
+Real 1.5
+Coming to the Github repo soon, it should combine both 1.00 and -1.5 together.
+-------------------FUTURE UPDATES----------------------
+2.0
+PHP and CSS added and improved respectibly. 
